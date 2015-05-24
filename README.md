@@ -1,3 +1,3 @@
 # Getting-and-Cleaning-Data-Project
 
-Contains code that produces averages_data.txt
+run_analysis.R is the output code that produces the output averages_data.txt.
